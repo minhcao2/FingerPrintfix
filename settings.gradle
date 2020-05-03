@@ -1,0 +1,2 @@
+rootProject.name='FingerPrint fix'
+include ':app'
